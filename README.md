@@ -76,8 +76,8 @@ Git
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/[YourUsername]/dogs-vs-cats-classification.git
-cd dogs-vs-cats-classification
+git clone https://github.com/thuan20132000/CSCN8010_dogs-vs-cats-classification.git
+cd CSCN8010_dogs-vs-cats-classification
 ```
 
 2. **Create virtual environment (recommended):**
@@ -311,7 +311,7 @@ Both models struggled with:
 
 ## 👥 Contributors
 
-- **[Your Name]** - 8730956 - TRUONG MINH THUAN
+- TRUONG MINH THUAN - 8730956
 
 ## 📄 License
 
