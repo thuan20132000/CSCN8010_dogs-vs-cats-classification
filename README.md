@@ -41,7 +41,7 @@ This project demonstrates the practical application of deep learning for compute
 
 **Source:** [Kaggle Dogs vs Cats Dataset](https://www.kaggle.com/c/dogs-vs-cats/data)
 
-**Subset Used:** 5,000 images (as specified in course requirements)
+**Subset Used:** 5,000 images
 - **Training:** 4,000 images (2,000 dogs + 2,000 cats)
 - **Validation:** 500 images (250 dogs + 250 cats)
 - **Test:** 500 images (250 dogs + 250 cats)
